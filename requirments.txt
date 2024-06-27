@@ -1,5 +1,4 @@
 langchain
 openai
 streamlit
-dotenv
-load_dotenv
+import dotenv
