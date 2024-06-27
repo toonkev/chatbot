@@ -1,4 +1,4 @@
 langchain
 OpenAI
 Streamlit 
-dotenv
+python-dotenv==1.0.0
